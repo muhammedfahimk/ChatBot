@@ -2,6 +2,12 @@
 
 A simple AI chatbot application built with **FastAPI**, **HTMX**, **Jinja2**, and **Google Gemini AI**.
 
+-------------------------------------------
+## 🌐 Live Demo
+
+👉 https://chatbot-xxxx.onrender.com
+
+--------------------------------------------
 ## Features
 
 - AI-powered chat replies using Gemini API
